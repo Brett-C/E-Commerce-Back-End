@@ -1,7 +1,7 @@
 # E-Commerce-Back-End
 Link to video of insomnia demonstrating application working in insomnia:
 
-
+[Video Demonstration](https://drive.google.com/file/d/1FvLCkEL5hYBO3rXylq3mr2Q40By-8Phd/view)
 
 ## Description
 
@@ -21,7 +21,7 @@ For installation please clone this repo to your local device. You will also need
 
 ## Usage
 
-To use this application, simply download and install all node packages, and then run "node index.js". This will load up the server and let use insomnia to test all of the routes.
+To use this application, simply download and install all node packages, and then run "node index.js". This will load up the server and let you use insomnia to test all of the routes.
 
 ## Credits
 
